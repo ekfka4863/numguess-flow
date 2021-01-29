@@ -1,2 +1,1 @@
-# numguess-flow
-Created for practicing git-flow with numguess game 
+This file is created for practicing use github as a co-working system, and today we are going to practice this with numguess game. 
